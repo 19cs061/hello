@@ -1,5 +1,4 @@
 ``` sathesh ```
-![Alt text](image-1.png)
 ![Alt text](attach.JPG)
 ![Alt text](<builder build.JPG>) 
 ![Alt text](<builder prune.JPG>) 
